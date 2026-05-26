@@ -26,12 +26,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🌟 Featured Projects
-- 💪 [FitCheck](https://fitcheck.fitness) – A gym social media app connecting 3500+ gyms  
-- ⚾ [Field Manager](https://github.com/Xan1237/FeildManager) – A **PostgreSQL + Node.js** baseball field booking system
-- 📈 [Stock Predictor](https://github.com/Xan1237/StockPredictor) – A **Python + Machine Learning** project predicting stock trends  
-
-
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xander-brown-dev)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://my-app-2g6c.onrender.com)  

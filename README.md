@@ -1,8 +1,6 @@
-# Hi, I'm Xander 👋  
+# Hi, I'm Xander 
 
-🎓 3rd-year Computer Science student @ Dalhousie University  
 ⚾🏓 Fun fact: I’ve played **Baseball** and **Table Tennis** at the **National Level**  
-💻 Passionate about building web apps, backends, and side projects  
 
 
 ## 🚀 Tech Stack
